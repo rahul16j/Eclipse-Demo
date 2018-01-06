@@ -9,5 +9,7 @@ public class Test {
 		System.out.println("this is Rahul here");
 		Test2 t=new Test2();
 		t.show2();
+		Test3 t3=new Test3();
+		t3.show3();
 	}
 }
